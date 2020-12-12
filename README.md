@@ -1,6 +1,5 @@
     LEC: Largest Empty Circle between Points in a flat plane
-    also know as Pole of Inaccessibility
-    problem
+    also know as Pole of Inaccessibility problem.
     
 
     see: https://en.wikipedia.org/wiki/Largest_empty_sphere
@@ -9,7 +8,7 @@
     does not overlap with any given point and whose center
     is lying in the convex hull of the points.
     
-    Hint: The LEC is centered at the a Voronoi vertice of
+    Hint: The LEC is centered at the Voronoi vertice of
     the polygon which
     (1) is located within the polygon and
     (2) has the largest shortest distance to the polygon

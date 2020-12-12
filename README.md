@@ -1,5 +1,5 @@
     LEC: Largest Empty Circle between Points in a flat plane
-    also know as Toxic Waste Dump or  Pole of Inaccessibility
+    also know as Pole of Inaccessibility
     problem
     
 

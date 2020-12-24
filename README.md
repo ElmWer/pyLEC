@@ -11,7 +11,8 @@
     Hint: The LEC is centered at the Voronoi vertice of
     the polygon which
     (1) is located within the polygon and
-    (2) has the largest shortest distance to the polygon
+    (2) has the largest shortest distance to the polygon of
+        all Voronoi vertices
 
     Parameters
     ----------

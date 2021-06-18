@@ -9,8 +9,7 @@ from matplotlib import path
 def pyLEC(points):
     '''
     LEC: Largest Empty Circle between Points in a flat plane
-    also know as Toxic Waste Dump or Pole of Inaccessibility
-    problem
+    also know as Pole of Inaccessibility problem.
     
 
     see: https://en.wikipedia.org/wiki/Largest_empty_sphere

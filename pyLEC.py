@@ -3,7 +3,7 @@
 
 import numpy as np
 from scipy import spatial
-from matplotlib import path
+from matplotlib import path  # much faster than the analog shapely function
 
 
 def pyLEC(points):
@@ -18,8 +18,9 @@ def pyLEC(points):
     does not overlap with any given point and whose center
     is lying in the convex hull of the points.
     
-    Hint: The LEC is centered at the internal Voronoi vertices
-    with the largest shortest distance to the polygon
+    Hint: The LEC is centered at that internal Voronoi vertice
+    with has the largest shortest distance to the polygon of
+    all internal Voronoi vertices.
 
     Parameters
     ----------
